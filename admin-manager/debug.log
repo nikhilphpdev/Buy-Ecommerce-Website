@@ -1,0 +1,23 @@
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='0' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2015, EANID: 8369380
+Query: UPDATE all_product SET product_status='1' WHERE id='2015' AND product_auto_id='8369380'
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2019, EANID: 8150823
+Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Action: toggle, ID: 2015, EANID: 8369380
+Query: UPDATE all_product SET product_status='1' WHERE id='2015' AND product_auto_id='8369380'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='0' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='0' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='0' WHERE id='2019' AND product_auto_id='8150823'
+Executing Query: UPDATE all_product SET product_status='1' WHERE id='2019' AND product_auto_id='8150823'
